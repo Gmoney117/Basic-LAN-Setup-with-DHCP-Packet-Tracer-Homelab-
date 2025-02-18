@@ -17,7 +17,7 @@ To simulate a small office network with three wired computers, one printer, and 
         <h2>Video Recording</h2>
         <!-- Embed YouTube Video -->
         <iframe 
-            src="https://www.youtube.com/embed/YOUR_VIDEO_ID" 
+            src="[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://youtu.be/tGXajwWtgUg)" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen>
